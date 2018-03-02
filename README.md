@@ -6,3 +6,5 @@
 ```
 $ diff `openp` `openp`
 ```
+
+![](demo-screenshot.png)
