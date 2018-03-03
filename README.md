@@ -1,5 +1,5 @@
 # openp
-Just shows open panel GUI to select directory/file, which may fulfills interactive selection in script files.
+Just shows open panel GUI to select directory/file, which may fulfills interactive selection in script.
 
 # Installation
 
