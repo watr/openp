@@ -12,7 +12,7 @@ $ brew install openp
 # Usage
 
 ```
-$ diff `openp` `openp`
+$ diff "`openp`" "`openp`"
 ```
 
 ![](demo-screenshot.png)
